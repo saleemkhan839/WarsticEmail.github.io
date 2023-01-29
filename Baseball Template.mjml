@@ -1,0 +1,143 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+        <mj-font name="Quantico" href="https://fonts.googleapis.com/css2?family=Quantico" />
+        <mj-text font-family="Quantico, sans-serif" align="center" padding="0" font-size="18px" line-height="26px" color="#ffffff"/>
+        <mj-image padding="0px" />
+        <mj-button background-color="#D1AA5A" color="#000000" font-size="14px" font-family="Quantico, sans-serif" text-transform="uppercase" border-radius="0px" height="45px" width="200px" />
+        <mj-section padding="0px" background-color="#000000" />
+        <mj-class name="head-text" font-family="Quantico, sans-serif" font-size="36px" line-height="50px" text-transform="uppercase" />
+        </mj-attributes>
+    </mj-head>
+    <!-- Body Section -->
+    <mj-body background-color="#f1f1f1">
+
+    <!-- Logo Section Strat -->
+    <mj-section>
+         <mj-column>
+            <mj-image href="https://warstic.com/" width="128px" src="img/logo.png" alt="Warstic Logo" padding="20px" />
+         </mj-column>
+    </mj-section>
+   <!-- Logo Section End -->
+
+   <!-- Welcome Section Start -->
+       <mj-section>
+         <mj-column>
+            <mj-image href="https://warstic.com/" src="img/hero_image.png" alt="Welcome to the team" />
+         </mj-column>
+    </mj-section>
+   <!-- Welcome Section End -->
+
+   <!-- Discount Section -->
+          <mj-section padding-top="80px">
+         <mj-column>
+            <mj-image width="500px" href="https://warstic.com/pages/flagship-store-headquarters" src="img/discount_image.png" alt="Thanks for signing up Warrior" padding-left="50px" padding-right="50px" />
+            <mj-button href="https://warstic.com/pages/flagship-store-headquarters" padding-top=20px font-weight="bold">
+                get 10% off now
+            </mj-button>
+            <mj-text font-size="12px">
+                or use code 123xyz456 on checkout
+            </mj-text>
+         </mj-column>
+    </mj-section>
+
+<!-- Why Section -->
+    <mj-section padding="80px 20px 0px 20px">
+        <mj-column width="500px" padding-bottom="15px">
+            <mj-text mj-class="head-text">
+                Why warstick?
+            </mj-text>
+        </mj-column>
+        <mj-column width="420px">
+            <mj-text>
+            We design uniquely original sporting goods for people looking for more substance and style from their stic, without sacrificing performance.
+            </mj-text>
+            <mj-image src="img/why_image.png" alt="Learn more" href="https://warstic.com/collections/metal-series" />
+        </mj-column>
+    </mj-section>
+
+<!-- Video Section -->
+    <mj-section padding-top="80px">
+        <mj-column padding-bottom=15px>
+            <mj-text mj-class="head-text" padding="0px 20px">
+            Be the storm
+            </mj-text>
+            <mj-text>
+                Check out our latest video
+            </mj-text>
+            <mj-image padding-top="15px" src="img/video_image.jpg" alt="Clik to Watch Video" href="https://www.youtube.com/watch?v=Vo3NyH8LCZs" />
+        </mj-column>
+    </mj-section>
+
+<!-- Services Section -->
+    <mj-section>
+        <mj-column>
+            <mj-text font-size="30px" text-transform="uppercase" padding="80px 20px 0px">
+                Outstanding service
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+<!-- Gurantees Section -->
+    <mj-section padding="30px 50px 0px">
+        <mj-column width="200px" padding="20px">
+            <mj-image src="img/truck.png" width="40px"/>
+            <mj-text font-size="12px">
+                Express Delivery
+            </mj-text>
+        </mj-column>
+        <mj-column width="200px" padding="20px">
+            <mj-image src="img/truck.png" width="40px"/>
+            <mj-text font-size="12px">
+                Express Delivery
+            </mj-text>
+        </mj-column>
+        <mj-column width="200px" padding="20px">
+            <mj-image src="img/truck.png" width="40px"/>
+            <mj-text font-size="12px">
+                Express Delivery
+            </mj-text>
+        </mj-column>
+        <mj-column width="200px" padding="20px">
+            <mj-image src="img/truck.png" width="40px"/>
+            <mj-text font-size="12px">
+                Express Delivery
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <!-- Payment Section -->
+        <mj-section padding="10px 0px 80px">
+            <mj-column>
+                <mj-text>
+                    <img src="img/pay1.png" width="35px" style="padding:5px;"/>
+                    <img src="img/pay2.png" style="padding:5px;" width="35px"/>
+                    <img src="img/pay3.png" style="padding:5px;" width="35px"/>
+                    <img src="img/pay4.png" style="padding:5px;" width="35px"/>
+                    <img src="img/pay5.png" style="padding:5px;" width="35px"/>
+                    <img src="img/pay6.png" style="padding:5px;" width="35px"/>
+                    <img src="img/pay7.png" style="padding:5px;" width="35px"/>
+                </mj-text>  
+            </mj-column>
+        </mj-section>
+
+    <!-- Footer Section -->
+        <mj-section background-color="#F6F6EF" padding-bottom="30px">
+            <mj-column width="300px" padding-top="30px">
+                <mj-text>
+                   <a href="https://www.facebook.com/warstic/"> <img src="img/facebook.png" style="padding:5px;" width="35px"/></a>
+                    <a href="https://www.instagram.com/warstic/?hl=en"><img src="img/instagram.png" style="padding:5px;" width="35px"/></a>
+                    <a href="https://www.youtube.com/@Warstic"><img src="img/youtube.png" style="padding:5px;" width="35px"/></a>
+                    <a href="https://twitter.com/warstic/status/1008923389526986752"><img src="img/twitter.png" style="padding:5px;" width="35px"/></a>
+                </mj-text>
+                <mj-text color="#303030" font-size="12px" font-family="Helvetica" line-height="15px" padding-top="15px">
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.<br/><br/> When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                </mj-text>
+                <mj-text font-size="12px" font-family="Helvetica" line-height="15px" padding-top="15px">
+                    <a href="#" style="color: #303030;"> Unsubscribe </a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+    </mj-body>
+</mjml>
